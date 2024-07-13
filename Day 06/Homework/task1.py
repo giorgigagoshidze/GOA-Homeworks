@@ -2,4 +2,4 @@
 #შემდეგ კი მისალმების მესიჯი, მაგალითად 'hello ' + (სახელი). 
 name = input()
 
-print("surname " + name)
+print("hello " + name)
